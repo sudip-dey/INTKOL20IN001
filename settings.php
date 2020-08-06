@@ -2,6 +2,8 @@
 
 // @codingStandardsIgnoreFile
 
+This is the change from JIRA-102
+
 /**
  * @file
  * Drupal site-specific configuration file.
