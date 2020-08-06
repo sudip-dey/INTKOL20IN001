@@ -2,7 +2,7 @@
 
 // @codingStandardsIgnoreFile
 
-This is the change from JIRA-102
+This is the change from JIRA-102 -- additional changes
 
 /**
  * @file
